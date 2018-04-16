@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 9224c1593e3060f449ef081c1bda6302
+timeCreated: 1523496012
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: _HEX_BUG_letters
+    100002: bend1Handle
+    100004: BUG
+    100006: CompoundPath1
+    100008: CompoundPath2
+    100010: CompoundPath3
+    100012: CompoundPath4
+    100014: curve1
+    100016: curve2
+    100018: curve3
+    100020: curve4
+    100022: directionalLight1
+    100024: E
+    100026: E1
+    100028: group3
+    100030: grp_LOGO_full
+    100032: grp_LOGO_minus_grid
+    100034: H
+    100036: H1
+    100038: m_HEX_cage_section_smaller1
+    100040: m_platform1
+    100042: m_X_X_logo
+    100044: m_X_X_logo_unitizedUVs3
+    100046: m_X_X_logo_unitizedUVs4
+    100048: OG_TExt
+    100050: outline
+    100052: p2_Text
+    100054: planarTrimmedSurface1
+    100056: planarTrimmedSurface2
+    100058: planarTrimmedSurface5
+    100060: platform2
+    100062: R
+    100064: R1
+    100066: tran_letters_and_BUG
+    100068: tran_ROTATION_camera
+    100070: tran_TRANSLATION_camera
+    100072: transform1
+    100074: typeMesh1
+    100076: //RootNode
+    100078: WIP_round_2_01_pCube2
+    100080: WIP_round_2_01_pPlane3
+    400000: _HEX_BUG_letters
+    400002: bend1Handle
+    400004: BUG
+    400006: CompoundPath1
+    400008: CompoundPath2
+    400010: CompoundPath3
+    400012: CompoundPath4
+    400014: curve1
+    400016: curve2
+    400018: curve3
+    400020: curve4
+    400022: directionalLight1
+    400024: E
+    400026: E1
+    400028: group3
+    400030: grp_LOGO_full
+    400032: grp_LOGO_minus_grid
+    400034: H
+    400036: H1
+    400038: m_HEX_cage_section_smaller1
+    400040: m_platform1
+    400042: m_X_X_logo
+    400044: m_X_X_logo_unitizedUVs3
+    400046: m_X_X_logo_unitizedUVs4
+    400048: OG_TExt
+    400050: outline
+    400052: p2_Text
+    400054: planarTrimmedSurface1
+    400056: planarTrimmedSurface2
+    400058: planarTrimmedSurface5
+    400060: platform2
+    400062: R
+    400064: R1
+    400066: tran_letters_and_BUG
+    400068: tran_ROTATION_camera
+    400070: tran_TRANSLATION_camera
+    400072: transform1
+    400074: typeMesh1
+    400076: //RootNode
+    400078: WIP_round_2_01_pCube2
+    400080: WIP_round_2_01_pPlane3
+    2100000: phong2
+    2100002: mat_goal_2
+    2100004: mat_letters
+    2100006: lambert1
+    2100008: mat_goal
+    2100010: _BUG_lambert4
+    2100012: mat_rubber
+    2100014: mat_platform1
+    2300000: E
+    2300002: E1
+    2300004: H
+    2300006: H1
+    2300008: m_HEX_cage_section_smaller1
+    2300010: m_platform1
+    2300012: m_X_X_logo
+    2300014: m_X_X_logo_unitizedUVs3
+    2300016: m_X_X_logo_unitizedUVs4
+    2300018: outline
+    2300020: planarTrimmedSurface1
+    2300022: planarTrimmedSurface2
+    2300024: planarTrimmedSurface5
+    2300026: platform2
+    2300028: R
+    2300030: R1
+    2300032: typeMesh1
+    2300034: WIP_round_2_01_pCube2
+    2300036: WIP_round_2_01_pPlane3
+    3300000: E
+    3300002: E1
+    3300004: H
+    3300006: H1
+    3300008: m_HEX_cage_section_smaller1
+    3300010: m_platform1
+    3300012: m_X_X_logo
+    3300014: m_X_X_logo_unitizedUVs3
+    3300016: m_X_X_logo_unitizedUVs4
+    3300018: outline
+    3300020: planarTrimmedSurface1
+    3300022: planarTrimmedSurface2
+    3300024: planarTrimmedSurface5
+    3300026: platform2
+    3300028: R
+    3300030: R1
+    3300032: typeMesh1
+    3300034: WIP_round_2_01_pCube2
+    3300036: WIP_round_2_01_pPlane3
+    4300000: WIP_round_2_01_pCube2
+    4300002: WIP_round_2_01_pPlane3
+    4300004: typeMesh1
+    4300006: planarTrimmedSurface1
+    4300008: planarTrimmedSurface2
+    4300010: planarTrimmedSurface5
+    4300012: m_HEX_cage_section_smaller1
+    4300014: m_X_X_logo
+    4300016: m_X_X_logo_unitizedUVs4
+    4300018: m_X_X_logo_unitizedUVs3
+    4300020: H1
+    4300022: H
+    4300024: E1
+    4300026: E
+    4300028: R1
+    4300030: R
+    4300032: m_platform1
+    4300034: platform2
+    4300036: outline
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
